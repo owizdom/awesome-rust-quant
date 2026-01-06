@@ -1,0 +1,14 @@
+[package]
+name = "rust-quant-charts"
+version.workspace = true
+edition.workspace = true
+authors.workspace = true
+license.workspace = true
+repository.workspace = true
+
+[dependencies]
+plotters = "0.3"
+ndarray = "0.16"
+serde.workspace = true
+thiserror.workspace = true
+

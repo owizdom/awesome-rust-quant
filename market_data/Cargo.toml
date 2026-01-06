@@ -1,0 +1,16 @@
+[package]
+name = "rust-quant-market-data"
+version.workspace = true
+edition.workspace = true
+authors.workspace = true
+license.workspace = true
+repository.workspace = true
+
+[dependencies]
+reqwest = { version = "0.11", features = ["json"] }
+serde.workspace = true
+serde_json.workspace = true
+thiserror.workspace = true
+chrono.workspace = true
+tokio = { version = "1.0", features = ["full"] }
+

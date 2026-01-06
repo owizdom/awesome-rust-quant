@@ -1,0 +1,13 @@
+[package]
+name = "rust-quant-numerical"
+version.workspace = true
+edition.workspace = true
+authors.workspace = true
+license.workspace = true
+repository.workspace = true
+
+[dependencies]
+ndarray = "0.16"
+serde.workspace = true
+thiserror.workspace = true
+

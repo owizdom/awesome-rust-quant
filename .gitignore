@@ -1,0 +1,17 @@
+node_modules/
+*.log
+.DS_Store
+.env
+dist/
+build/
+.cursor/
+*.vsix
+
+# Rust
+target/
+**/*.rs.bk
+Cargo.lock
+*.pdb
+
+
+
