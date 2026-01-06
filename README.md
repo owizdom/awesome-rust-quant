@@ -7,7 +7,7 @@ A curated list of insanely awesome libraries for Rust, packages and resources fo
 
 ## Implemented Tools
 
-This repository contains **15 fully implemented Rust crates** for quantitative finance by ME, organized as a Cargo workspace. Each tool is production-ready with comprehensive error handling, documentation, and tests.
+This repository contains **15 fully implemented Rust crates** for quantitative finance by ME, organized as a Cargo workspace. Each tool is ready out of the box with comprehensive error handling, documentation, and tests.
 
 ###  Implemented Categories
 
